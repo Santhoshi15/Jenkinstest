@@ -5,4 +5,3 @@ echo $OS
 echo "test script"
 echo "first bulid complete"
 echo "trying to build second"
-echo "trying to build again"
